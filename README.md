@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-![Laravel Test](https://github.com/ilham-zanuar-pratama/ApiUnitTesting/workflows/laravel-tests.yml/badge.svg)
+![Laravel Test](https://github.com/ilham-zanuar-pratama/ApiUnitTesting/actions/workflows/laravel-tests.yml/badge.svg)
 
 ## About Laravel
 
